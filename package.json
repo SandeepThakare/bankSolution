@@ -1,0 +1,23 @@
+{
+  "name": "banksolution",
+  "version": "1.0.0",
+  "description": "Koodoo technical challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/index.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/55bd1af9f227c038fb39ccb46b622216.git"
+  },
+  "author": "SandeepThakare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/55bd1af9f227c038fb39ccb46b622216"
+  },
+  "homepage": "https://gist.github.com/55bd1af9f227c038fb39ccb46b622216",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}
